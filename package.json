@@ -2,7 +2,6 @@
   "name": "docker",
   "version": "0.0.0",
   "scripts": {
-    "start": "node --openssl-legacy-provider node_modules/.bin/ng serve",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
